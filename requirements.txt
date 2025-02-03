@@ -1,0 +1,8 @@
+tk
+keyboard
+requests
+pyttsx3
+speechrecognition
+pyaudio
+fastapi
+uvicorn
